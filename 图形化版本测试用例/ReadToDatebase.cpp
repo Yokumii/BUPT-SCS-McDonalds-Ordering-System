@@ -8,7 +8,7 @@
 
 using namespace std;
 
-// ½á¹¹¶¨Òå
+// ç»“æ„å®šä¹‰
 struct Food {
     int id;
     string name;
@@ -22,13 +22,13 @@ struct Pack {
     vector<string> foods;
 };
 
-// Êı¾İ¿âÁ¬½ÓĞÅÏ¢
+// æ•°æ®åº“è¿æ¥ä¿¡æ¯
 const char* host = "localhost";
 const char* user = "root";
-const char* password = "M1xkkvdw";
+const char* password = "12345678";
 const char* database = "byr_mcdonald";
 
-// º¯ÊıÉùÃ÷
+// å‡½æ•°å£°æ˜
 void parseDicFile(const char* filename, int& N, int& M, vector<Food>& foods, vector<Pack>& packs,int& W1, int& W2);
 void insertFoods(MYSQL* conn, const vector<Food>& foods);
 void insertPacks(MYSQL* conn, const vector<Pack>& packs);
