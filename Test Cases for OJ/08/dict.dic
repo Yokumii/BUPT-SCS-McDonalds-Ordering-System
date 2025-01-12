@@ -1,0 +1,65 @@
+51 60
+BigMac1 BigMac2 BigMac3 BigMac4 BigMac5 BigMac6 BigMac7 BigMac8 BigMac9 BigMac10 Fries1 Fries2 Fries3 Fries4 Fries5 Fries6 Fries7 Fries8 Fries9 Fries10 Coke1 Coke2 Coke3 Coke4 Coke5 Coke6 Coke7 Coke8 Coke9 Coke10 McChicken1 McChicken2 McChicken3 McChicken4 McChicken5 McChicken6 McChicken7 McChicken8 McChicken9 McChicken10 Sprite1 Sprite2 Sprite3 Sprite4 Sprite5 Sprite6 Sprite7 Sprite8 Sprite9 Sprite10 McWings
+51 50 49 48 47 46 45 44 43 42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1
+1 54001 1 54001 1 54001 1 54001 1 54001 1 54001 1 54001 1 54001 1 54001 1 54001 1 54001 1 54001 1 54001 1 54001 1 54001 1 54001 1 54001 1 54001 1 54001 1 54001 1 54001 1 54001 1 54001 1 54001 1 54001 1 
+9 6
+BigMacCombo1 BigMac1 Fries1 Coke1 McChicken1 Sprite1
+BigMacCombo2 BigMac2 Fries2 Coke2 McChicken2 Sprite2
+BigMacCombo3 BigMac3 Fries3 Coke3 McChicken3 Sprite3
+BigMacCombo4 BigMac4 Fries4 Coke4 McChicken4 Sprite4
+BigMacCombo5 BigMac5 Fries5 Coke5 McChicken5 Sprite5
+BigMacCombo6 BigMac6 Fries6 Coke6 McChicken6 Sprite6
+BigMacCombo7 BigMac7 Fries7 Coke7 McChicken7 Sprite7
+BigMacCombo8 BigMac8 Fries8 Coke8 McChicken8 Sprite8
+BigMacCombo9 BigMac9 Fries9 Coke9 McChicken9 Sprite9
+BigMacCombo10 BigMac10 Fries10 Coke10 McChicken10 Sprite10
+McChickenCombo1 McChicken1 Fries1 Sprite1 McWings
+McChickenCombo2 McChicken2 Fries2 Sprite2 McWings
+McChickenCombo3 McChicken3 Fries3 Sprite3 McWings
+McChickenCombo4 McChicken4 Fries4 Sprite4 McWings
+McChickenCombo5 McChicken5 Fries5 Sprite5 McWings
+McChickenCombo6 McChicken6 Fries6 Sprite6 McWings
+McChickenCombo7 McChicken7 Fries7 Sprite7 McWings
+McChickenCombo8 McChicken8 Fries8 Sprite8 McWings
+McChickenCombo9 McChicken9 Fries9 Sprite9 McWings
+McChickenCombo10 McChicken10 Fries9 Sprite10 McWings
+BalaBalaCombo1 BigMac1 Fries1
+BalaBalaCombo2 BigMac1 Fries2
+BalaBalaCombo3 BigMac1 Fries3
+BalaBalaCombo4 BigMac1 Fries4
+BalaBalaCombo5 BigMac1 Fries5
+BalaBalaCombo6 BigMac1 Fries6
+BalaBalaCombo7 BigMac1 Fries7
+BalaBalaCombo8 BigMac1 Fries8
+BalaBalaCombo9 BigMac1 Fries9
+BalaBalaCombo10 BigMac1 Fries10
+BalaBalaCombo11 BigMac2 Fries1
+BalaBalaCombo12 BigMac2 Fries2
+BalaBalaCombo13 BigMac2 Fries3
+BalaBalaCombo14 BigMac2 Fries4
+BalaBalaCombo15 BigMac2 Fries5
+BalaBalaCombo16 BigMac2 Fries6
+BalaBalaCombo17 BigMac2 Fries7
+BalaBalaCombo18 BigMac2 Fries8
+BalaBalaCombo19 BigMac2 Fries9
+BalaBalaCombo20 BigMac2 Fries10
+BalaBalaCombo21 BigMac3 Fries1
+BalaBalaCombo22 BigMac3 Fries2
+BalaBalaCombo23 BigMac3 Fries3
+BalaBalaCombo24 BigMac3 Fries4
+BalaBalaCombo25 BigMac3 Fries5
+BalaBalaCombo26 BigMac3 Fries6
+BalaBalaCombo27 BigMac3 Fries7
+BalaBalaCombo28 BigMac3 Fries8
+BalaBalaCombo29 BigMac3 Fries9
+BalaBalaCombo30 BigMac3 Fries10
+BalaBalaCombo31 BigMac4 Fries1
+BalaBalaCombo32 BigMac4 Fries2
+BalaBalaCombo33 BigMac4 Fries3
+BalaBalaCombo34 BigMac4 Fries4
+BalaBalaCombo35 BigMac4 Fries5
+BalaBalaCombo36 BigMac4 Fries6
+BalaBalaCombo37 BigMac4 Fries7
+BalaBalaCombo38 BigMac4 Fries8
+BalaBalaCombo39 BigMac4 Fries9
+BalaBalaCombo40 BigMac4 Fries10
